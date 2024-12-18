@@ -4,8 +4,8 @@ BigBlueButton：视频会议系统,开源视频会议,BigBlueButton,大蓝钮视
 
 ![bbbeasy微信号](https://github.com/user-attachments/assets/3f19a4d9-33d2-4518-898f-034612c2bc47)
 
-
 =============
+
 BigBlueButton is an open-source virtual classroom designed to help teachers teach and learners learn.  
 
 BigBlueButton supports real-time sharing of audio, video, slides (with whiteboard annotations), chat, and the screen.  Instructors can engage remote students with polling, emojis, multi-user whiteboards, shared notes, and breakout rooms.  During the session, BigBlueButton generates analytics that are visible to moderators in the Learning Analytics Dashboard.
